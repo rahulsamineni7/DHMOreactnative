@@ -23,7 +23,6 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "space-between",
     width: "100%",
-    marginTop: 23,
     padding: 17,
     backgroundColor: "#007bff",
   },
