@@ -34,7 +34,7 @@ const Login = () => {
 
   const handleLogin = () => {
     // Check if location is within a certain range of Gachibowli
-    const gachibowliLatitude = 17.4401;
+    const gachibowliLatitude = 16.4401;
     const gachibowliLongitude = 78.3489;
     const tolerance = 0.1; // Adjust this tolerance value as needed
 
